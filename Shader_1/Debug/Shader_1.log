@@ -1,0 +1,4 @@
+﻿  demo.cpp
+d:\game development\school project\allassignmentfinalversion\0118856 teena_glsl_audiovisualizer\shader_1\demo.cpp(299): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\game development\school project\allassignmentfinalversion\0118856 teena_glsl_audiovisualizer\shader_1\demo.cpp(305): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Shader_1.vcxproj -> D:\Game Development\School Project\AllAssignmentFinalVersion\0118856 Teena_GLSL_AudioVisualizer\Debug\Shader_1.exe
